@@ -1,0 +1,2 @@
+def w():
+    print("ddfdb")

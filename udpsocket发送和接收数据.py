@@ -33,3 +33,7 @@ if __name__ == '__main__':
     print(udp_socket_content, ip_port)
     # 关闭udpsocket
     udp_socket.close()
+
+# 这是丁雅琪测试
+def hi():
+    print("hello")
